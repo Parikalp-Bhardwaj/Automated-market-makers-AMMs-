@@ -1,8 +1,6 @@
 Automated Market Maker(AMM) is a type of decentralized exchange which is based on a mathematical formula of price assets. It allows digital assets to be traded without any permissions and automatically by using liquidity pools instead of any traditional buyers and sellers which uses an order book that was used in traditional exchange, here assets are priced according to a pricing algorithm.
 
 
-![AMM](https://user-images.githubusercontent.com/53660958/188002946-5f8b12cb-1433-4f5c-89ea-90189e46091d.gif)
-
 
 # Basic Sample Hardhat Project
 
